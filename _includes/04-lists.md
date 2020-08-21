@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Liste oluştur
+* Listeye madde ekle
+  * İç madde 1
+  * İç madde 2
